@@ -1,7 +1,3 @@
-# Car Dealership System
-
-A C++ console application for managing a car dealership, implementing MVC architecture to handle clients, vehicles, purchases, and sales.
-
 <a id="readme-top"></a>
 
 <div align="center">
@@ -133,4 +129,4 @@ Distributed under the MIT License.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Cpp-shield]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
-[Cpp-url]: https://isocpp.org/
+[Cpp-url]: https://isocpp.org/s
