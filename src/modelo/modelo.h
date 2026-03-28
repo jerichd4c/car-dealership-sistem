@@ -60,10 +60,10 @@ private:
 };
 
 void writeCurrentCar(std::fstream& file, const Cars& car);
-void writeCurrentClient(std::fstream& file2, const Client& client, bool isFirstLine);
+void writeCurrentClient(std::fstream& file2, const Client& client);
 void readClientsFromFile(const std::string& filename, Client clients[], int& size);
 void readCarsFromFile(const std::string& filename, Cars cars[], int& size);
-void readCurrentCar(std::fstream& file);
-void readCurrentClient(std::fstream& file);
+Cars readCurrentCar(std::fstream& file);
+Client readCurrentClient(std::fstream& file);
 
 #endif /* MODELO_H */
