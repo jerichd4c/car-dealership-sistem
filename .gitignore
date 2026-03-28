@@ -1,0 +1,63 @@
+# Compiled executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Object files
+*.o
+*.obj
+*.lo
+
+# Libraries
+*.a
+*.lib
+*.la
+
+# Profiling files
+gmon.out
+gprof.out
+
+# IDE files
+# Dev-C++
+*.dev
+*.layout
+*.groupproj
+*.user
+
+# Code::Blocks
+*.cbp
+*.cbp~
+
+# Visual Studio
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.user
+*.ilk
+*.pdb
+
+# CLion
+.idea/
+*.cmake
+
+# VS Code
+.vscode/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# CMake
+CMakeLists.txt.user
+cmake-build-*/
+
+# Makefile outputs
+*.out
+*.out.*
+
+# OS files
+.DS_Store
+Thumbs.db
